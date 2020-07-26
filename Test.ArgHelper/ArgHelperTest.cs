@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using ArgHelper;
 
@@ -10,7 +10,7 @@ namespace Test.ArgHelper
         [TestMethod]
         public void TestBuildMethod()
         {
-            string[] args = new[] 
+            string[] args = new[]
             {
                 "-path", @"D:/sample",
                 "-date", "2020/01/01",
