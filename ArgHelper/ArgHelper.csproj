@@ -4,10 +4,12 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <Version>1.0.1</Version>
     <Authors>hytiid</Authors>
+    <Company>hytiid</Company>
     <PackageProjectUrl>https://github.com/hytiid/ArgHelper</PackageProjectUrl>
     <Description>arg helper for c# console application</Description>
     <RepositoryUrl>https://github.com/hytiid/ArgHelper</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
+    <PackageDescription>arg helper for c# console application</PackageDescription>
   </PropertyGroup>
 
 </Project>
